@@ -23,8 +23,6 @@ public class Application {
 ```
 
 ### src/main/resource/applicaiton.properties
-Set SpringBoot.
-Handle exceptions and Return Httpstatus.
 ```
 # Dynamic Resource
 spring.mvc.view.prefix=/WEB-INF/views/
